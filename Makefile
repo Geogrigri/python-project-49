@@ -2,6 +2,8 @@ install: #после первого клонирования установка 
 	uv sync
 brain-games: #запуск игры
 	uv run brain-games
+brain-even:
+	uv run brain-even
 build:
 	uv build
 package-install:
