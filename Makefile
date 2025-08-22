@@ -8,3 +8,6 @@ package-install:
 	uv tool install dist/*.whl
 write-text:
 	nano brain_games/scripts/brain_games.py
+
+lint:
+	uv run ruff check brain_games
