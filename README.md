@@ -11,3 +11,7 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Geogrigri_python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Geogrigri_python-project-49)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Geogrigri_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=Geogrigri_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Geogrigri_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Geogrigri_python-project-49)
+[![asciicast](https://asciinema.org/a/hL1jhadLaSvyaki0HzxycDDSy.svg)](https://asciinema.org/a/hL1jhadLaSvyaki0HzxycDDSy)
+[![asciicast](https://asciinema.org/a/wCXPlCnUl6c4FZpHoK2cLVwzu.svg)](https://asciinema.org/a/wCXPlCnUl6c4FZpHoK2cLVwzu)
+[![asciicast](https://asciinema.org/a/mGfBfqjgbCoQEHY4SfWwIlLc5.svg)](https://asciinema.org/a/mGfBfqjgbCoQEHY4SfWwIlLc5)
+
