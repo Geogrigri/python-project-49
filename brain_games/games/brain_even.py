@@ -2,8 +2,10 @@ import random
 
 rules = 'Answer "yes" if the number is even, otherwise answer "no".'
 
+
 def is_even(number):
 	return number % 2 == 0
+
 
 def generate_round():
 	number = random.randint(1, 100)

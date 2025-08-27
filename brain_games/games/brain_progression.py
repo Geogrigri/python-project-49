@@ -2,8 +2,10 @@ import random
 
 rules = 'What number is missing in the progression?'
 
+
 def element(start, index, step):
 	return start + index * step
+
 
 def generate_round():
 
