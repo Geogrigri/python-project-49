@@ -14,7 +14,7 @@ def run_game(game_module, rounds=3):
 
 		if user_answer != correct_answer:
 			print(f"'{user_answer}' is wrong answer :(. Correct answer was '{correct_answer}'.")
-			print(f"Let's try again, {name}")
+			print(f"Let's try again, {name}!")
 			return
 
 		print("Correct!")
