@@ -19,4 +19,4 @@ def generate_round():
 	question = str(number)
 	correct_answer = 'yes' if is_prime(number) else 'no'
 
-	return number, correct_answer
+	return question, correct_answer
